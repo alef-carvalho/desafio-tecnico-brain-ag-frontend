@@ -50,4 +50,4 @@ docker compose up -d
 ![screenshot](https://raw.githubusercontent.com/alef-carvalho/desafio-tecnico-brain-ag-frontend/development/examples/cadastro_propriedade.jpeg)
 
 6 - Edição de Propriedade:
-![screenshot](https://raw.githubusercontent.com/alef-carvalho/desafio-tecnico-brain-ag-frontend/development/examples/edicao_propriedade.png)
+![screenshot](https://raw.githubusercontent.com/alef-carvalho/desafio-tecnico-brain-ag-frontend/development/examples/edicao_propriedade.jpeg)
